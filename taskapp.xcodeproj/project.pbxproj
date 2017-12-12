@@ -14,6 +14,7 @@
 		C876FA781FDFA46500B4F0D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C876FA761FDFA46500B4F0D5 /* LaunchScreen.storyboard */; };
 		C876FA831FDFA46600B4F0D5 /* taskappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C876FA821FDFA46600B4F0D5 /* taskappTests.swift */; };
 		C876FA8E1FDFA46600B4F0D5 /* taskappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C876FA8D1FDFA46600B4F0D5 /* taskappUITests.swift */; };
+		C876FA9C1FDFAA1300B4F0D5 /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C876FA9B1FDFAA1300B4F0D5 /* InputViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C876FA891FDFA46600B4F0D5 /* taskappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = taskappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C876FA8D1FDFA46600B4F0D5 /* taskappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taskappUITests.swift; sourceTree = "<group>"; };
 		C876FA8F1FDFA46600B4F0D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C876FA9B1FDFAA1300B4F0D5 /* InputViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				C876FA6D1FDFA46500B4F0D5 /* AppDelegate.swift */,
 				C876FA6F1FDFA46500B4F0D5 /* ViewController.swift */,
 				C876FA711FDFA46500B4F0D5 /* Main.storyboard */,
+				C876FA9B1FDFAA1300B4F0D5 /* InputViewController.swift */,
 				C876FA741FDFA46500B4F0D5 /* Assets.xcassets */,
 				C876FA761FDFA46500B4F0D5 /* LaunchScreen.storyboard */,
 				C876FA791FDFA46500B4F0D5 /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C876FA9C1FDFAA1300B4F0D5 /* InputViewController.swift in Sources */,
 				C876FA701FDFA46500B4F0D5 /* ViewController.swift in Sources */,
 				C876FA6E1FDFA46500B4F0D5 /* AppDelegate.swift in Sources */,
 			);
